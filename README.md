@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cb-g)](https://github.com/cb-g/github-readme-stats)
 
 <!--
+### Hi there 👋
+
 **cb-g/cb-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
